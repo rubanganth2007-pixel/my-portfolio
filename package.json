@@ -1,0 +1,16 @@
+{
+  "name": "ruban-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio of Rubanganth S - Full Stack Developer",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y serve -p 3000 .",
+    "start": "npx -y serve -p 3000 ."
+  },
+  "keywords": [
+    "portfolio",
+    "developer"
+  ],
+  "author": "Rubanganth S",
+  "license": "ISC"
+}
